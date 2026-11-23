@@ -11,7 +11,7 @@ Preliminary design of a reinforced concrete groundwater collection tank for a pr
 
 **23 Nov. 2026**
 
-*Helloooo!!* **penguinoffline** aka goat **Pingura** strikes again :DD!!!! This time I'm bringing you **HYDROVAULT**, a spin off personal project from a contest I'm doing in my university (Engineers Without Borders)! This tank is part of an infiltration gallery + solar powered RO/filtration + distribution system my team came up with to help combat water scarcity in regions of Perú. HYDROVAULT is designed to be a collection tank for raw water before the RO and filtration system. I've designed this tank specifically for the people in Síchez, Peru, where the population is fairly small, since the tank will need to scale accordingly depending on the targeted region. 
+*Helloooo :DDDD!!* **penguinoffline** aka goat **Pingura** strikes again !! This time I'm bringing you **HYDROVAULT**, a spin off personal project from a contest I'm doing in my university (Engineers Without Borders)! This tank is part of an infiltration gallery + solar powered RO/filtration + distribution system my team came up with to help combat water scarcity in regions of Perú. HYDROVAULT is designed to be a collection tank for raw water before the RO and filtration system. I've designed this tank specifically for the people in Síchez, Peru, where the population is fairly small, since the tank will need to scale accordingly depending on the targeted region. 
 
 The design + drawing process consumed an unholy amount of time in the last 2 days (14hrs of work) lollll.
 
