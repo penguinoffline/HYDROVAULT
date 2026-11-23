@@ -8,7 +8,7 @@
 Preliminary design of a reinforced concrete groundwater collection tank for a proposed infiltration gallery and reverse osmosis (RO) water treatment system. The design considers intermittent pumping from a continuous gravity fed supply, maintainable access, sealed wall penetrations, and hydrostatic level instrumentation.
 
 
-## Design basis
+## Design
 
 | Parameter | Value |
 |---|---:|
