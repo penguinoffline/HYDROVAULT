@@ -1,4 +1,4 @@
-# Groundwater Collection Tank Design
+# HYDROVAULT
 
 <img width="3368" height="2382" alt="assembly drawing preview" src="https://github.com/user-attachments/assets/bc7a0721-5b2d-47b9-b6b3-9ad34df26fd3" />
 
