@@ -2,7 +2,8 @@
 
 **Engineers Without Borders (EWB) Engineering for People Design Challenge, 2026–27**  
 
-![Collection tank assembly drawing](Images/assembly drawing preview.jpeg)
+![Collection tank assembly drawing]<img width="3368" height="2382" alt="assembly drawing preview" src="https://github.com/user-attachments/assets/bc7a0721-5b2d-47b9-b6b3-9ad34df26fd3" />
+
 
 ## Project overview
 
