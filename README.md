@@ -17,7 +17,7 @@ The design + drawing process consumed an unholy amount of time in the last 2 day
 
 As always, thank you so much for reading this :DDDD!! I will be publishing even better stuffs (and of course updating BLACKSITE) in the foreseeable future!!!!
 
-~*Pingura out*~
+<em>&#126;Pingura out&#126;</em>
 
 ## Design
 
