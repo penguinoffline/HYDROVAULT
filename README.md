@@ -37,6 +37,7 @@ Preliminary design of a reinforced concrete groundwater collection tank for a pr
 | Path | Contents |
 |---|---|
 | `CAD/Collection Tank Assembly.f3z` | Fusion 360 format of the assembly
+| `CAD/Collection Tank Assembly.step` | STEP format of the assembly
 | `Drawings/Collection Tank Assembly Drawing.pdf` | A2 assembly drawing |
 | `Images/assembly drawing preview.jpeg` | Picture of the assembly drawing |
 
